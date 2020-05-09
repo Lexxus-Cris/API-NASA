@@ -1,0 +1,22 @@
+{
+  "name": "nasa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UrielCris/API-NASA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UrielCris/API-NASA/issues"
+  },
+  "homepage": "https://github.com/UrielCris/API-NASA#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
